@@ -1,0 +1,29 @@
+/* *{
+  
+} */
+.main{
+  border: 3px solid black;
+  width: 200px;
+  margin: 0 auto;
+}
+.result{
+  width: 96%;
+  background-color:white ;
+  color:black;
+}
+.clear{
+  width: 100%;
+  margin-top:5px ;
+ background-color:rgb(62, 174, 211) ;
+}
+.btn{
+  background-color: rgb(61, 187, 209);
+  width: 45px;
+  margin: 1px;
+}
+.btn2{
+  background-color: rgb(93, 149, 221);
+  width: 96px;
+  margin: 1px;
+  margin-top: 2px;
+}
